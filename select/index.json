@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "WA DA DA",
+  "base_artist": "Kep1er",
+  "createdAt": "2025-12-23T05:58:29.961463Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WA DA DA",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/01_WA_DA_DA_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WA DA DA (Japanese Version)",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/02_WA_DA_DA_(Japanese_Version)_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WA DA DA",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/03_WA_DA_DA_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WA DA DA (Japanese ver.)",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/04_WA_DA_DA_(Japanese_ver.)_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "WA DA DA (Japanese version) - From THE FIRST TAKE",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/05_WA_DA_DA_(Japanese_version)_-_From_THE_FIRST_TAKE_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "WA DA DA (Japanese ver.) - From THE FIRST TAKE",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/06_WA_DA_DA_(Japanese_ver.)_-_From_THE_FIRST_TAKE_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "WA DA DA (Japanese version)~IMLAY Remix~",
+      "artist": "Kep1er feat. IMLAY",
+      "has_synced": true,
+      "path": "select/07_WA_DA_DA_(Japanese_version)~IMLAY_Remix~_Kep1er_feat._IMLAY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "WA DA DA (Japanese version)~IMLAY Remix~",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/08_WA_DA_DA_(Japanese_version)~IMLAY_Remix~_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "WA DA DA",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/09_WA_DA_DA_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "WA DA DA (Japanese ver.)",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/10_WA_DA_DA_(Japanese_ver.)_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Black Wa-Da-Da (Invasion)",
+      "artist": "Burning Spear",
+      "has_synced": false,
+      "path": "select/11_Black_Wa-Da-Da_(Invasion)_Burning_Spear.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Black Wa-Da-Da (Invasion)",
+      "artist": "Burning Spear",
+      "has_synced": true,
+      "path": "select/12_Black_Wa-Da-Da_(Invasion)_Burning_Spear.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "WA DA DA",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/13_WA_DA_DA_Kep1er.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WA DA DA",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/pl_01_WA_DA_DA_Kep1er.txt"
+    }
+  ]
+}
