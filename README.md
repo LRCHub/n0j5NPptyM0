@@ -1,0 +1,69 @@
+# Kep1er – WA DA DA
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:03.30] Hey!
+[00:05.03] It's you, and I
+[00:09.09] Let's start
+[00:14.59] 
+[00:09.86] N-N-Now 도착한 이 place, watch my step
+[00:12.62] 나의 신호를 따라, five, four, three, two, one (uh-huh)
+[00:14.73] 꿈꿔온 모험 가까이 있어 (있어)
+[00:16.56] Take off with me, with me, let's go (muah)
+[00:18.80] 한 발, 한 발 내디뎌 갈수록, 내 마음은 떨려 (like it)
+[00:22.51] 선명해진 dream, 느껴지는 걸, eh-oh-eh-oh
+[00:38.01] 
+[00:26.44] Heads up, 꿈을 향해 달려, 달려
+[00:30.20] Stand up, 너와 내 꿈, higher, higher
+[00:34.14] 누구보다 빨리 달려갈 거야
+[00:37.52] 네가 있는 곳으로 (와다다다)
+[00:45.52] 
+[00:43.47] Running vroom, vroom, vroom, like a supersonic (let's go)
+[00:46.91] 와다다, 와다다, 달려 (right now)
+[00:50.83] 맘이 쿵쿵쿵 뛰어 미친 듯이
+[00:53.52] 와다다, 와다다, Kep1 going, 와다다다
+[01:06.52] 
+[00:56.93] Oh-oh, oh-oh, oh-oh, oh-oh-oh-oh (hey)
+[01:00.61] Oh-oh, oh-oh, oh-oh-oh, 너에게로, 와다다다
+[01:04.64] Oh-oh, oh-oh, oh-oh, oh-oh-oh-oh (yeah, yeah)
+[01:08.38] Oh-oh, oh-oh, oh-oh-oh, Kep1 going, 와다다다
+[01:28.38] 
+[01:12.80] One, check it, two, 신중히
+[01:16.58] 좀 더 바짝 세워, radar, radar
+[01:19.98] 눈치챌 거야 지금 이 떨림, I'm gonna be brave, yeah (like it)
+[01:23.65] 숨을 고르고 다시 get, set, go, eh-oh-eh-oh
+[01:41.15] 
+[01:27.54] Heads up, 두려움은 날려, 날려
+[01:31.19] Stand up, 우리 함께, higher, higher
+[01:35.04] 누구보다 빨리 달려갈 거야
+[01:38.41] 그려왔던 곳으로 (와다다다)
+[01:45.91] 
+[01:44.19] Running vroom, vroom, vroom, like a supersonic (let's go)
+[01:47.75] 와다다, 와다다, 달려 (right now)
+[01:52.02] 맘이 쿵쿵쿵 뛰어 미친 듯이
+[01:54.52] 와다다, 와다다, Kep1 going, 와다다다
+[02:07.52] 
+[01:57.94] Oh-oh, oh-oh, oh-oh, oh-oh-oh-oh (hey)
+[02:01.78] Oh-oh, oh-oh, oh-oh-oh, 너에게로, 와다다다
+[02:05.64] Oh-oh, oh-oh, oh-oh, oh-oh-oh-oh (yeah, yeah)
+[02:09.58] Oh-oh, oh-oh, oh-oh-oh, Kep1 going, 와다다다
+[02:29.58] 
+[02:14.84] Yeah, run around and 'round, 멈추지 말고 trip on
+[02:17.24] 꿈들이 이루어지는 모험
+[02:19.39] 어딨니? 나 보이니?
+[02:20.70] 자, 시그널을 보낼게, catch it
+[02:22.95] Now get up, together
+[02:24.84] 내 숨이 차도, I won't give up
+[02:26.41] Run, run, run, 내가 보일 거야 (와다다다)
+[02:41.41] 
+[02:32.03] Running vroom, vroom, vroom, like a supersonic (let's go)
+[02:35.46] 와다다, 와다다, 달려 (right now)
+[02:39.55] 맘이 쿵쿵쿵 뛰어 미친 듯이
+[02:42.15] 와다다, 와다다, Kep1 going, 와다다다
+[02:55.15] 
+[02:45.50] Oh-oh, oh-oh, oh-oh, oh-oh-oh-oh (hey)
+[02:49.26] Oh-oh, oh-oh, oh-oh-oh, 너에게로, 와다다다
+[02:53.10] Oh-oh, oh-oh, oh-oh, oh-oh-oh-oh (yeah, yeah)
+[02:56.89] Oh-oh, oh-oh, oh-oh-oh, Kep1 going, 와다다다
+```
